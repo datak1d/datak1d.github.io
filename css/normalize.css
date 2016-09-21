@@ -146,15 +146,6 @@ mark {
   background: #ff0;
   color: #000;
 }
-
-/**
- * Address inconsistent and variable font size in all browsers.
- */
-
-small {
-  font-size: 80%;
-}
-
 /**
  * Prevent `sub` and `sup` affecting `line-height` in all browsers.
  */
@@ -177,15 +168,6 @@ sub {
 
 /* Embedded content
    ========================================================================== */
-
-/**
- * Remove border when inside `a` element in IE 8/9/10.
- */
-
-img {
-  border: 0;
-}
-
 /**
  * Correct overflow not hidden in IE 9/10/11.
  */
@@ -203,15 +185,6 @@ svg:not(:root) {
 
 figure {
   margin: 1em 40px;
-}
-
-/**
- * Address differences between Firefox and other browsers.
- */
-
-hr {
-  box-sizing: content-box;
-  height: 0;
 }
 
 /**
