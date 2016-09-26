@@ -1,0 +1,14 @@
+{
+  "name": "WebForge jsApp",
+  "version": "0.0.1",
+  "description": "Front-end Application",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "webforgeteam",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.1.0"
+  }
+}
